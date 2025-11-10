@@ -1,8 +1,15 @@
 // ================== ANSWERS.TXT (FILL ME) ==================
-// Group []
+// Group [6]
  Students: Name []                      RegNo  []
- ....................................   .....................................
- ....................................   .....................................
+KABUNGA CHARLES                        2025/BCS/084/PS  
+AIJUKA DAVID                           2025/BCS/016/PS 
+LUGONVU JOEL                           2025/BCS/112/PS 
+KANYESIGYE JOSHUA                      2025/BCS/195/PS
+AYEBALE RONAH                          2025/BCS/058/PS
+ATUHEIRE EDWIN                         2025/BCS/212/PS
+PRAISE ASSUMPPTAH                      2025/BCS/167/PS
+AMPWERA JAVAN                          2025/BCS/079/PS 
+AINOMUGISHA RONALD                     2025/BCS/021/PS 
 
 // Q1. Describe how your `move()` finds a path and handles dead-ends.
 
