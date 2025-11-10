@@ -1,0 +1,58 @@
+// ================== ANSWERS.TXT (FILL ME) ==================
+// Group []
+ Students: Name []                      RegNo  []
+ ....................................   .....................................
+ ....................................   .....................................
+
+// Q1. Describe how your `move()` finds a path and handles dead-ends.
+
+A1: 
+.................................................................................
+.................................................................................
+.................................................................................
+
+
+// Q2. The navigation strategy in this lab is relatively simple 
+(trying moves in a certain order and restarting on dead-ends). In a larger
+grid or more complex maze, this approach might not always find a path efficiently.
+How effective is your pathfinding strategy, and what is its limitation? If the 
+grid were much bigger or had more obstacles, how would the complexity of finding 
+a path grow? Can you think of an alternative algorithm that would ensure finding 
+a path if one exists (name it and describe its advantage)?
+
+A2: 
+................................................................................
+.................................................................................
+.................................................................................
+
+// Q3. Why do we perform ingredient validation (checking the recipe against the map) 
+before attempting to traverse the house? Discuss what could go wrong if we skipped the 
+ validate_ingredients() step. In general, why is input validation important in programming,
+ especially when dealing with external data like files?
+A3: 
+................................................................................
+.................................................................................
+.................................................................................
+
+// Q4. Scenario B: How do you decide when to split into multiple trips, and how do you 
+ensure all items are collected?
+A3: 
+................................................................................
+.................................................................................
+.................................................................................
+
+// Q5.This program is organized into multiple modules (files) such as separate components for 
+reading input, handling movement, and managing recipe logic. What are the benefits of this
+modular design? Consider aspects like code readability, reusability, and ease of debugging.
+Provide an example from this lab where separating functionality into a distinct function 
+or module made the implementation easier or clearer.
+A5: 
+................................................................................
+.................................................................................
+.................................................................................
+
+// Appendix:
+//  A. Hours spent:
+//  B. Known bugs/limitations:
+//  C. Collaboration / sources consulted:
+// ============================================================

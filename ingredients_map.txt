@@ -1,0 +1,11 @@
+# IngredientName row col
+Kitchen 0 0
+Flour 2 5
+Sugar 0 7
+Eggs 2 2
+Butter 4 4
+Milk 6 2
+Vanilla 2 6
+BakingPowder 6 6
+Cocoa 4 7
+Yeast 3 2

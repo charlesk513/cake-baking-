@@ -1,0 +1,12 @@
+# 8x8 house grid: 1=walkable, 0=blocked
+# Rows and columns are 0-based.
+# Ensure Kitchen at (0,0) is walkable.
+8 8
+1 1 1 1 0 1 1 1
+0 0 1 1 0 1 0 1
+1 1 1 0 1 1 1 1
+1 0 1 1 1 0 0 1
+1 1 1 0 1 1 1 1
+1 0 0 0 1 0 1 1
+1 1 1 1 1 1 1 0
+1 0 1 0 1 1 1 1

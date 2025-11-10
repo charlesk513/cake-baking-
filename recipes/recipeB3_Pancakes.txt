@@ -1,0 +1,4 @@
+Flour 3
+Milk 2
+Eggs 2
+Sugar 1
